@@ -1,12 +1,12 @@
 {
-  "export_job_id": "12f54cbd-4edb-4969-9703-c2c8b7796381",
+  "export_job_id": "ea55f4ec-f825-4175-870c-a791b2928678",
   "id_short": 982124,
-  "published_at": "2026-04-16T07:22:56Z",
+  "published_at": "2026-04-19T07:09:53Z",
   "repo_name": "restaurant-verified-email-access-in-tulsa-oklahoma-us-sample-982124",
   "sample_asset_name": "beamstation_982124_restaurants-us-ok_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/982124/beamstation_982124_restaurants-us-ok_SAMPLE_DIST.csv",
   "sample_records": 25,
   "sample_sha256": "bcfc27dc81a01b4d80ad429839d1f98a8baa802bdd034c0536af40f446ff587f",
   "sample_size_bytes": 117026,
-  "total_records": 267
+  "total_records": 258
 }

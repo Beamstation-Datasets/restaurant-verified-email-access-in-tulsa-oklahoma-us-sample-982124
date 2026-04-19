@@ -6,17 +6,17 @@
   "config_category": "email",
   "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
   "config_name": "Restaurant Verified Email Access in Tulsa, Oklahoma, US",
-  "export_job_id": "12f54cbd-4edb-4969-9703-c2c8b7796381",
+  "export_job_id": "ea55f4ec-f825-4175-870c-a791b2928678",
   "github_org": "Beamstation-Datasets",
   "id_short": 982124,
   "location_name": "Tulsa",
   "location_type": "city",
   "repo_name": "restaurant-verified-email-access-in-tulsa-oklahoma-us-sample-982124",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/982124/beamstation_982124_restaurants-us-ok_SAMPLE_DIST.csv",
-  "sample_pct": 9.36,
+  "sample_pct": 9.69,
   "sample_records": 25,
   "sample_sha256": "bcfc27dc81a01b4d80ad429839d1f98a8baa802bdd034c0536af40f446ff587f",
   "sample_size_bytes": 117026,
-  "total_records": 267,
-  "updated_at": "2026-04-07T23:30:32.006427+00:00"
+  "total_records": 258,
+  "updated_at": "2026-04-15T05:15:46.296256+00:00"
 }
